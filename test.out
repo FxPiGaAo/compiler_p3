@@ -1,0 +1,226 @@
+int x;
+int y;
+bool z;
+void a;
+int ffff(){
+    }
+
+int ffff(){
+        int i;
+        return ;
+    }
+
+int ffff(){
+        return ;
+    }
+
+int ffff(){
+        return asplos;
+    }
+
+int ffff(){
+        return micro.bestpaper;
+    }
+
+int ffff(){
+        return a.b.c;
+    }
+
+int ffff(){
+        return (-id);
+    }
+
+int ffff(){
+        return (!id);
+    }
+
+int ffff(){
+        return 123;
+    }
+
+int ffff(){
+        return (-123);
+    }
+
+int ffff(){
+        return "computer architecture letter";
+    }
+
+int ffff(){
+        return true;
+    }
+
+int ffff(){
+        return true;
+    }
+
+int ffff(){
+        return false;
+    }
+
+int ffff(){
+        return (2+3);
+    }
+
+int ffff(){
+        return (2-3);
+    }
+
+int ffff(){
+        return (2*3);
+    }
+
+int ffff(){
+        return (2/3);
+    }
+
+int ffff(){
+        return (2&&3);
+    }
+
+int ffff(){
+        return (2||3);
+    }
+
+int ffff(){
+        return (2==3);
+    }
+
+int ffff(){
+        return (2!=3);
+    }
+
+int ffff(){
+        return (2<3);
+    }
+
+int ffff(){
+        return (2>3);
+    }
+
+int ffff(){
+        return (2<=3);
+    }
+
+int ffff(){
+        return (2>=3);
+    }
+
+int ffff(){
+        return (2+(3*4));
+    }
+
+int ffff(){
+        return (2+(3/4));
+    }
+
+int ffff(){
+        return ((2*3)+4);
+    }
+
+int ffff(){
+        return (2-(3*4));
+    }
+
+int ffff(){
+        return ((-2)-(3*4));
+    }
+
+int ffff(){
+        return (2==(3+4));
+    }
+
+int ffff(){
+        return (2!=(3+4));
+    }
+
+int ffff(){
+        return (2&&(3==4));
+    }
+
+int ffff(){
+        return (2||(3&&4));
+    }
+
+int ffff(){
+        (a=1);
+    }
+
+int ffff(){
+        (a=(b=1));
+    }
+
+int ffff(){
+        micro.top.picks++;
+        a--;
+    }
+
+int ffff(){
+        int i;
+        int j;
+        return ;
+    }
+
+int ffff(){
+        cin >> a.b.c;
+    }
+
+int ffff(){
+        cout << d.e.f;
+    }
+
+int ffff(){
+        if(a){
+            return ;
+        }
+    }
+
+int ffff(){
+        if(a){
+            return ;
+        }
+        else{
+            int j;
+            return ;
+        }
+
+    }
+
+int ffff(){
+        while(a){
+            a++;
+            return ;
+        }
+    }
+
+int ffff(){
+        repeat(a){
+            a++;
+            return ;
+        }
+    }
+
+int ffff(){
+        (a=func(a,b,c,d));
+    }
+
+int ffff(){
+        func(a,b,c,d);
+    }
+
+struct architecture{
+    int a;
+    int b;
+};
+struct isca ISCA;
+int ffff(int a){
+        int i;
+        return ;
+    }
+
+int ffff(int a,int b){
+        struct hpca HPCA;
+        int i;
+        return ;
+    }
+
